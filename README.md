@@ -8,7 +8,7 @@ This compound is known in the literature and a search of ChEMBL identifies it as
 * Malaria Screening (Novartis)
 * Leishmania Screening (Saint Jude) 
 
-In the literature it has been described as a potent Kca2.3 channel inhibitor (4 nM) [DOI](http://dx.doi.org/10.1016/j.bmcl.2008.08.023). This is a human calcium-activated potassium channel, does this channel or a homologue therof exist in ascomycota? 
+In the literature it has been described as a potent Kca2.3 channel inhibitor (4 nM) [DOI](http://dx.doi.org/10.1016/j.bmcl.2008.08.023). This is a human calcium-activated potassium channel, does this channel or a homologue of it exist in ascomycota? 
 
 As with all hits from screening - The first step should be to confirm activity with a fresh sample. If confirmed, a couple of approaches are possible.
 
