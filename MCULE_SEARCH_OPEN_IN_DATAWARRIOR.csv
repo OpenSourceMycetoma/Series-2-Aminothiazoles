@@ -1,4 +1,4 @@
-Mcule ID,SMILES,1 - Similarity to hit - Tanimoto coefficient
+Mcule ID,SMILES,Similarity to hit - Tanimoto coefficient
 MCULE-5313198933-0,N1C(C2C=CC=CN=2)=CSC=1NC1C=C(C)C=CN=1,1.000
 MCULE-6813619596-0,N1C(C2C=CC=CN=2)=CSC=1NC1C=CC=CN=1,0.949
 MCULE-4805869753-0,N1C(C2=CC=CC=N2)=CSC=1NC1=CC=CC(C)=N1,0.936
