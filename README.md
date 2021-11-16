@@ -1,5 +1,5 @@
 # Series-2-Aminothiazoles
-Screening of the stasis box identified MMV006357 a 2-aminothiazole with useful activity. 
+Screening of the stasis box (and a subsequent resynthesis project) identified MMV006357 a 2-aminothiazole with useful activity. 
 ![alt text](MMV006357.png)
 
 This compound is known in the literature and a search of ChEMBL identifies it as [CHEMBL476339](https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL476339). It has been screened extensively:
@@ -10,7 +10,6 @@ This compound is known in the literature and a search of ChEMBL identifies it as
 
 In the literature it has been described as a potent Kca2.3 channel inhibitor (4 nM) [DOI](http://dx.doi.org/10.1016/j.bmcl.2008.08.023). This is a human calcium-activated potassium channel, does this channel or a homologue of it exist in ascomycota? 
 
-As with all hits from screening - The first step should be to confirm activity with a fresh sample. If confirmed, a couple of approaches are possible.
 
 Try to confirm the mode of action
 ------------
