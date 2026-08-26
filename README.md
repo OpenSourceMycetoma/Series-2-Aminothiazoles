@@ -1,6 +1,4 @@
-<img width="794" height="567" alt="Series 2 update 26-08-2026" src="https://github.com/user-attachments/assets/8b66280b-2a25-43b4-9721-ac1e1953964f" />
-
-## References 
+<img width="794" height="567" alt="Series 2 update 26-08-2026" src="https://github.com/user-attachments/assets/8556dbcd-c8a9-4b85-a4a6-4d13b3ea07e8" />
 
 [1] Lim, W.; Melse, Y.; Konings, M.; Duong, H. P.; Eadie, K.; Laleu, B.; Perry, B.; Todd, M. H.; Ioset, J.-R.; Sande, W. W. J. van de. Addressing the Most Neglected Diseases through an Open Research Model: The Discovery of Fenarimols as Novel Drug Candidates for Eumycetoma. PLOS Neglected Tropical Diseases 2018, 12 (4), e0006437. https://doi.org/10.1371/journal.pntd.0006437.
 
